@@ -37,4 +37,4 @@ Este programa en Python permite registrar múltiples productos, calculando autom
 
 Ejecución
 
-Solo corre el archivo en un entorno que permita ingresar datos desde la consola (
+Solo corre el archivo en un entorno que permita ingresar datos desde la consola 
